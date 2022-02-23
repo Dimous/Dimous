@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dmitry
-- 🥋 I know Haxe-fu
 - 🌱 I want to learn Rust
 - 👀 I’m interested in game development
 - 🔭 I’m working on flutter-application for instagrammers
